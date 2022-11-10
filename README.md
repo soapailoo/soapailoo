@@ -1,1 +1,1 @@
-`soph` `she/her` `soapai#6483`
+just trying to figure out how programming works
